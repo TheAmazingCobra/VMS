@@ -1,10 +1,11 @@
-# vorp menu 
+# VMS
 
 RedM menu API
 
-# insatallation
+# install
 
-- `ensure vorp_menu` in the top of your resources.cfg 
+- `ensure VMS` in the top of your resources.cfg
+- Do not install VMS if you already have vorp_menu.
 
 
 # features
