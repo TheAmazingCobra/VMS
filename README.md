@@ -1,5 +1,7 @@
 # VMS
 
+Standalone copy of vorp_menu/AkMenuBase/MenuApi for use in frameworks other than vorp.
+
 RedM menu API
 
 # install
