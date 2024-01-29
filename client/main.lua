@@ -297,6 +297,10 @@ AddEventHandler("vorp_menu:getData", function(cb)
     return cb(MenuData)
 end)
 
+AddEventHandler("vms:getData", function(cb)
+    return cb(MenuData)
+end)
+
 
 AddEventHandler('onClientResourceStart', function(resourceName)
     MenuData.LastSelectedIndex = {}
