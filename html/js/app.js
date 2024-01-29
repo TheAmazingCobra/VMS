@@ -70,7 +70,7 @@
     }
 
     window.MenuData = {};
-    MenuData.ResourceName = "vorp_menu";
+    MenuData.ResourceName = "VMS";
     MenuData.opened = {};
     MenuData.focus = [];
     MenuData.pos = {};
